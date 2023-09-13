@@ -80,7 +80,8 @@ Geometrical and Vibrational Properties of a Clamped-clamped Beam under Large Def
 - *2022.11 - 2023.11*, CD Capital, Department of Medical Device Investment, Investment Analyst Intern
   - Involved in investment analysis on medical devices, mainly ophthalmology surgical robots, endourology surgical robots, and minimally invasive neuromodulation.
 - *2021.07 - 2022.08*, Xi'an Jiaotong University, Department of Mechanical Engineering, Research Assistant
-  - Involved in the CAD drawing, acid resistance test, fatigue test, and tightness test for the anaesthetic machine.
+  - Involved in 'Terahertz Detectors Based on Carbon Nanomaterials' project.
+  - Involved in 'Test Verification of Key Equipment Failure Type Identification and Failure Prediction' project.
 - *2019.06 - 2019.07*, GE Healthcare (Wuxi), Department of Anesthesia Machine, Summer Intern
   - Involved in the CAD drawing, acid resistance test, fatigue test, and tightness test for the anaesthetic machine.
 
