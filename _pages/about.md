@@ -39,31 +39,31 @@ My research interest includes medical robots and medical imaging.
 
 # 📑 Course Projects
 - *2023.02 - 2023.05*, CV segmentation and AI classification of Chip Numbers, NUS
-- 
+  - 
 </div>
 </div>
 
 - *2023.03 - 2023.04*, Comparison of Solvers Solving SDP (Positive Semi-definite) Problem, NUS
-- SeDuMi SDPT
+  - SeDuMi SDPT
 </div>
 </div>
 
 - *2020.02 - 2020.12*, Swarm Intelligence Algorithms in Flexible Job Shop Scheduling Problem (FJSP), XJTU
-- Designed a data generation method for 8 workpieces, 6 machine tools, and 6 processes  FJSP.
-- Utilized genetic algorithm (GA), ant colony optimization algorithm (ACO) and particle swarm optimization algorithm (PSO) to solve the FJSP.
-- Plotted Gantt charts for the FJSP.
+  - Designed a data generation method for 8 workpieces, 6 machine tools, and 6 processes  FJSP.
+  - Utilized genetic algorithm (GA), ant colony optimization algorithm (ACO) and particle swarm optimization algorithm (PSO) to solve the FJSP.
+  - Plotted Gantt charts for the FJSP.
 </div>
 </div>
 
 - *2020.02 - 2020.07*, “More hot water” Intelligent Water Dispenser Design, XJTU
-- Utilized SolidWorks to model the outer frame of the water dispenser, and assembled the whole model.
-- Assembled the Intelligent Water Dispenser.
+  - Utilized SolidWorks to model the outer frame of the water dispenser, and assembled the whole model.
+  - Assembled the Intelligent Water Dispenser.
 </div>
 </div>
 
 - *2020.02 - 2020.07*, Deep Learning and Signal Processing in Machine Fault Diagnosis, XJTU
-- Utilized Matlab to do frequency-domain and time-domain analysis, wavelet analysis, fast Fourier transform, EMD envelope demodulation, and spectral kurtosis calculation on CWRU bearing dataset.
-- Utilized CNN and RNN to do fault diagnosis on CWRU bearing dataset.
+  - Utilized Matlab to do frequency-domain and time-domain analysis, wavelet analysis, fast Fourier transform, EMD envelope demodulation,   and spectral kurtosis calculation on CWRU bearing dataset.
+  - Utilized CNN and RNN to do fault diagnosis on CWRU bearing dataset.
 </div>
 </div>
 
