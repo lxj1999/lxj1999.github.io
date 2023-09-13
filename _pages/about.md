@@ -31,14 +31,28 @@ My research interest includes medical robots and medical imaging.
 - Computer Languages: MATLAB; Python
 
 # 📝 Research Experiences
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Excellent Undergraduate Graduation Project</div><img src='images/500x300.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- *2023.04 - 2023.12*, Semantic Segmentation of Laparoscopic Surgery Videos Based on HGNN, NUS
+  - Assisted surgeons in collecting and categorizing laparoscopic surgery video datasets, and annotated 10 surgical videos (800 video scenes) under medical guidance.
+  - Trained video semantic segmentation model baselines using open-source library "MMSegmentation".
 
-Geometrical and Vibrational Properties of a Clamped-clamped Beam under Large Deformation
-- Simulated the buckling characteristics and vibration modal response of a clamped-clamped beam fixed on a flexible substrate with different levels of pre-strain using ABAQUS and ANSYS APDL.
-- Acquired the formula for the buckling form of the clamped-clamped beam at different two-end compression displacements utilizing the perturbation method.
-- Used polyimide (PI) to cut and simulate the rectangular test strips with matching parameters, carried out buckling experiments by securing both ends on a self-designed tensile-compression test rig, and observed the buckling behavior under different experiment parameters.
-- Used a shaking table and a piezoelectric chip to detect vibration intensities at various points on the buckling beam.
+
+</div>
+</div>
+
+- *2021.11 - 2022.08*, Terahertz Detectors Based on Carbon Nanomaterials, XJTU
+  - Prepared carbon nanotube (CNT) films by wet methods, specifically, dispersed CNT powder into organic solvents using an ultrasonic crusher, and preparing dry 5-micron-thick CNT films using vacuum filtration equipment.
+  - Executed vapor deposition of metal electrodes onto CNT films covered with metal mask using a magnetron sputtering machine or an electron beam evaporation system.
+  - Engaged in the thermoelectric response and terahertz attenuation measurement of CNT-based devices using the Terahertz Time-Domain Spectroscopy (THz TDS) and Terahertz Quantum Cascade Lasers (THz QCL) system.
+
+
+</div>
+</div>
+
+- *2021.08 - 2022.03*, Test Verification of Key Equipment Failure Type Identification and Failure Prediction, XJTU
+  - Produced four faulty bearings with different lengths of wear on the inner race, measured the data on a bearing test rig using piezoelectric vibration sensors, and collated them into a corresponding dataset.
+  - Produced four solenoid valves with different levels of wear on the outer surface of the spool, and measured the data on a hydraulic test rig using a piezoelectric vibration sensor, and collated into a corresponding dataset.
+  - Utilized PyTorch-based ResNet to perform fault diagnosis and prediction on bearings and solenoid valves.
+
 
 </div>
 </div>
@@ -46,7 +60,7 @@ Geometrical and Vibrational Properties of a Clamped-clamped Beam under Large Def
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Excellent Undergraduate Graduation Project</div><img src='images/500x300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Geometrical and Vibrational Properties of a Clamped-clamped Beam under Large Deformation
+- *2020.02 - 2021.07*, Geometrical and Vibrational Properties of a Clamped-clamped Beam under Large Deformation, XJTU
 - Simulated the buckling characteristics and vibration modal response of a clamped-clamped beam fixed on a flexible substrate with different levels of pre-strain using ABAQUS and ANSYS APDL.
 - Acquired the formula for the buckling form of the clamped-clamped beam at different two-end compression displacements utilizing the perturbation method.
 - Used polyimide (PI) to cut and simulate the rectangular test strips with matching parameters, carried out buckling experiments by securing both ends on a self-designed tensile-compression test rig, and observed the buckling behaviour under different experiment parameters.
@@ -64,7 +78,7 @@ Geometrical and Vibrational Properties of a Clamped-clamped Beam under Large Def
   - Utilized Matlab to recognize and classify letters and numbers in the picture with simple CNN.
 - *2023.03 - 2023.04*, Comparison of Solvers in Solving SDP (Semi-definite Program) Problems, NUS
   - Utilized SDPT3 solver and SeDuMi solver on CVX interface in Matlab to solve the pure primal form of SDP.
-- *2020.02 - 2020.12*, Swarm Intelligence Algorithms in Flexible Job Shop Scheduling Problem (FJSP), XJTU
+- *2020.02 - 2020.12*, Swarm Intelligence Algorithms in Solving Flexible Job Shop Scheduling Problem (FJSP), XJTU
   - Designed a data generation method for eight workpieces, six machine tools, and six processes for the FJSP problem.
   - Utilized genetic algorithm (GA), ant colony optimization algorithm (ACO) and particle swarm optimization algorithm (PSO) to solve the FJSP problem.
   - Plotted Gantt charts for the FJSP problem.
