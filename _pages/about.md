@@ -40,26 +40,36 @@ My research interest includes medical robots and medical imaging.
 # 📑 Course Projects
 - *2023.02 - 2023.05*, CV segmentation and AI classification of Chip Numbers, NUS
 - 
+</div>
+</div>
 
 - *2023.03 - 2023.04*, Comparison of Solvers Solving SDP (Positive Semi-definite) Problem, NUS
 - SeDuMi SDPT
+</div>
+</div>
 
 - *2020.02 - 2020.12*, Swarm Intelligence Algorithms in Flexible Job Shop Scheduling Problem (FJSP), XJTU
 - Designed a data generation method for 8 workpieces, 6 machine tools, and 6 processes  FJSP.
 - Utilized genetic algorithm (GA), ant colony optimization algorithm (ACO) and particle swarm optimization algorithm (PSO) to solve the FJSP.
 - Plotted Gantt charts for the FJSP.
+</div>
+</div>
 
 - *2020.02 - 2020.07*, “More hot water” Intelligent Water Dispenser Design, XJTU
 - Utilized SolidWorks to model the outer frame of the water dispenser, and assembled the whole model.
 - Assembled the Intelligent Water Dispenser.
+</div>
+</div>
 
 - *2020.02 - 2020.07*, Deep Learning and Signal Processing in Machine Fault Diagnosis, XJTU
 - Utilized Matlab to do frequency-domain and time-domain analysis, wavelet analysis, fast Fourier transform, EMD envelope demodulation, and spectral kurtosis calculation on CWRU bearing dataset.
 - Utilized CNN and RNN to do fault diagnosis on CWRU bearing dataset.
+</div>
+</div>
 
 - *2019.09 - 2019.12*, Design of a Walkway Ladder, XJTU
-- Utilized EES and MATLAB to calculate and do strength checks of all parameters of the speed reducer in the walkway ladder.
-- Utilized SolidWorks to model the worm gear speed reducer and convert the 3D model into standardized 2D drawings using AutoCAD.
+  - Utilized EES and MATLAB to calculate and do strength checks of all parameters of the speed reducer in the walkway ladder.
+  - Utilized SolidWorks to model the worm gear speed reducer and convert the 3D model into standardized 2D drawings using AutoCAD.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
