@@ -1,4 +1,3 @@
-![image](https://github.com/lxj1999/lxj1999.github.io/assets/64299103/83de3437-88b1-4c2b-8ebf-66e423f01e66)---
 permalink: /
 title: ""
 excerpt: ""
