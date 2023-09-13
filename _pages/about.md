@@ -26,6 +26,10 @@ My research interest includes medical robots and medical imaging.
 - *2017.08 - 2021.07*, B.Eng., Mechanical Engineering, Xi'an Jiaotong University (XJTU), China (Excellent Undergraduate Graduation Project, top 1%)
 - *2019.01 - 2019.05*, Visiting International Student Program, University of Wisconsin-Madison (UW-Madison), USA
 
+# 🛠️ Skills
+- Engineering Software: ABAQUS; ANSYS APDL; COMSOL; SOLIDWORKS; AUTOCAD
+- Computer Languages: MATLAB; PYTHON
+
 # 📝 Research Experiences
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -45,10 +49,11 @@ My research interest includes medical robots and medical imaging.
 # 📑 Course Projects
 - *2023.08 - 2023.12*, Ongoing, Virtual Ping-pong Player Trained by Reinforcement Learning, NUS
 - *2023.08 - 2023.12*, Ongoing, Grasp of Blanket, NUS
-- *2023.02 - 2023.05*, CV segmentation and AI classification of Chip Numbers, NUS
-  - 
-- *2023.03 - 2023.04*, Comparison of Solvers in Solving (Positive Semi-definite) Problems, NUS
-  - 
+- *2023.02 - 2023.05*, CV Segmentation and AI Classification of Picture of Chip Index, NUS
+  - Utilized Matlab to segment letters and numbers in the picture with self-written functions (worked as regionprops, bwlabel and so on).
+  - Utilized Matlab to recognize and classify letters and numbers in the picture with simple CNN.
+- *2023.03 - 2023.04*, Comparison of Solvers in Solving SDP (Semi-definite Program) Problems, NUS
+  - Utilized SDPT3 solver and SeDuMi solver on CVX interface in Matlab to solve the pure primal form of SDP.
 - *2020.02 - 2020.12*, Swarm Intelligence Algorithms in Flexible Job Shop Scheduling Problem (FJSP), XJTU
   - Designed a data generation method for eight workpieces, six machine tools, and six processes for the FJSP problem.
   - Utilized genetic algorithm (GA), ant colony optimization algorithm (ACO) and particle swarm optimization algorithm (PSO) to solve the FJSP problem.
@@ -78,8 +83,4 @@ My research interest includes medical robots and medical imaging.
   - Involved in investment analysis on medical devices, mainly ophthalmology surgical robots, endourology surgical robots, and minimally invasive neuromodulation.
 - *2019.06 - 2019.07*, GE Healthcare (Wuxi), Department of Anesthesia Machine, Summer Intern
   - Involved in the CAD drawing, acid resistance test, fatigue test, and tightness test for the anaesthetic machine.
- 
-# 🛠️ Skills
-- Engineering Software: ABAQUS; ANSYS APDL; COMSOL; SOLIDWORKS; AUTOCAD
-- Computer Languages: MATLAB; PYTHON
 
