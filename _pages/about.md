@@ -26,7 +26,7 @@ My research interest includes medical robots and medical imaging.
 - *2017.08 - 2021.07*, B.Eng., Mechanical Engineering, Xi'an Jiaotong University (XJTU), China (Excellent Undergraduate Graduation Project, top 1%)
 - *2019.01 - 2019.05*, Visiting International Student Program, University of Wisconsin-Madison (UW-Madison), USA
 
-# 🛠️ Skills
+# 🛠 Skills
 - Engineering Software: ABAQUS; ANSYS APDL; COMSOL; SOLIDWORKS; AUTOCAD
 - Computer Languages: MATLAB; PYTHON
 
