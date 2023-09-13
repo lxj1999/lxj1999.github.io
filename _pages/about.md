@@ -21,6 +21,11 @@ I am now studying for my master's degree in robotics at the National University 
 
 My research interest includes medical robots and medical imaging.
 
+# 📖 Educations
+- *2023.01 - 2024.01(expected)*, M.Sc., Robotics, National University of Singapore, Singapore
+- *2017.08 - 2021.07*, B.Eng., Mechanical Engineering, Xi'an Jiaotong University, China (Excellent Undergraduate Graduation Project)
+- *2019.01 - 2019.05*, Visiting International Student Program, University of Wisconsin-Madison, USA
+
 # 📝 Research Experiences
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -40,48 +45,30 @@ My research interest includes medical robots and medical imaging.
 # 📑 Course Projects
 - *2023.02 - 2023.05*, CV segmentation and AI classification of Chip Numbers, NUS
   - 
-</div>
-</div>
-
 - *2023.03 - 2023.04*, Comparison of Solvers Solving SDP (Positive Semi-definite) Problem, NUS
   - SeDuMi SDPT
-</div>
-</div>
-
 - *2020.02 - 2020.12*, Swarm Intelligence Algorithms in Flexible Job Shop Scheduling Problem (FJSP), XJTU
   - Designed a data generation method for 8 workpieces, 6 machine tools, and 6 processes  FJSP.
   - Utilized genetic algorithm (GA), ant colony optimization algorithm (ACO) and particle swarm optimization algorithm (PSO) to solve the FJSP.
   - Plotted Gantt charts for the FJSP.
-</div>
-</div>
-
 - *2020.02 - 2020.07*, “More hot water” Intelligent Water Dispenser Design, XJTU
   - Utilized SolidWorks to model the outer frame of the water dispenser, and assembled the whole model.
   - Assembled the Intelligent Water Dispenser.
-</div>
-</div>
-
 - *2020.02 - 2020.07*, Deep Learning and Signal Processing in Machine Fault Diagnosis, XJTU
   - Utilized Matlab to do frequency-domain and time-domain analysis, wavelet analysis, fast Fourier transform, EMD envelope demodulation,   and spectral kurtosis calculation on CWRU bearing dataset.
   - Utilized CNN and RNN to do fault diagnosis on CWRU bearing dataset.
-</div>
-</div>
-
 - *2019.09 - 2019.12*, Design of a Walkway Ladder, XJTU
   - Utilized EES and MATLAB to calculate and do strength checks of all parameters of the speed reducer in the walkway ladder.
   - Utilized SolidWorks to model the worm gear speed reducer and convert the 3D model into standardized 2D drawings using AutoCAD.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.11* Second Prize in the Excellent General Course Paper and Teaching Outcome, Xi’an Jiaotong University
+- *2021.07* Excellent Undergraduate Graduation Project (Top 1%), Xi'an Jiaotong University
+- *2020.05* School-level Second Scholarship, Xi’an Jiaotong University
+- *2019.05* Second Scholarship, SMC Educational Foundation
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.11 - 2023.11*, CD Capital, Department of Medical Device Investment, Investment Analyst Intern
+  - Involved in investment analysis on medical devices, mainly ophthalmology surgical robots, endourology surgical robots, and minimally invasive neuromodulation.
+- *2019.06 - 2019.07*, GE Healthcare (Wuxi), Department of Anesthesia Machine, Summer Intern
+  - Involved in the CAD drawing, acid resistance test, fatigue test, and tightness test for the anesthetic machine.
