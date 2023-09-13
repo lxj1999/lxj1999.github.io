@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now studying for my master's degree in robotics at the National University of Singapore. 
+I am currently a M.Sc. student in Robotics, National University of Singapore. During my research assistant in Xi'an Jiaotong University, I worked with Prof. Liuyang Zhang in the Department of Mechanical Engineering. From 2017 to 2021, I studied at Xi'an Jiaotong University and received a B.Eng. degree in Mechanical Engineering.
 
 My research interest includes medical robots and medical imaging.
 
@@ -71,4 +71,4 @@ My research interest includes medical robots and medical imaging.
 - *2022.11 - 2023.11*, CD Capital, Department of Medical Device Investment, Investment Analyst Intern
   - Involved in investment analysis on medical devices, mainly ophthalmology surgical robots, endourology surgical robots, and minimally invasive neuromodulation.
 - *2019.06 - 2019.07*, GE Healthcare (Wuxi), Department of Anesthesia Machine, Summer Intern
-  - Involved in the CAD drawing, acid resistance test, fatigue test, and tightness test for the anesthetic machine.
+  - Involved in the CAD drawing, acid resistance test, fatigue test, and tightness test for the anaesthetic machine.
