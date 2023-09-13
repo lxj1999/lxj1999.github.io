@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master of Science(Robotics) student at the National University of Singapore. During my research assistant period at Xi'an Jiaotong University, I worked with Prof. Liuyang Zhang in the Department of Mechanical Engineering. From 2017 to 2021, I studied at Xi'an Jiaotong University and received a B.Eng. degree in Mechanical Engineering.
+I am currently a Master of Science(Robotics) student at the National University of Singapore. During my research assistant period at Xi'an Jiaotong University, I worked with Prof. Liuyang Zhang in the Department of Mechanical Engineering. From 2017 to 2021, I studied at Xi'an Jiaotong University and received a B.Eng. degree in Mechanical Engineering. I was awarded 'Excellent Undergraduate Graduation Project (Top 1%)' to finish my undergraduate study.
 
 My research interest includes medical robots and medical imaging.
 
 # 📖 Educations
 - *2023.01 - 2024.01(expected)*, M.Sc., Robotics, National University of Singapore (NUS), Singapore
-- *2017.08 - 2021.07*, B.Eng., Mechanical Engineering, Xi'an Jiaotong University (XJTU), China (Excellent Undergraduate Graduation Project, top 1%)
+- *2017.08 - 2021.07*, B.Eng., Mechanical Engineering, Xi'an Jiaotong University (XJTU), China
 - *2019.01 - 2019.05*, Visiting International Student Program, University of Wisconsin-Madison (UW-Madison), USA
 
 # 🛠 Skills
@@ -35,12 +35,12 @@ My research interest includes medical robots and medical imaging.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Excellent Undergraduate Graduation Project</div><img src='images/500x300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Geometrical and Vibrational Properties of a Clamped-clamped Beam under Large Deformation
+- Simulated the buckling characteristics and vibration modal response of a clamped-clamped beam fixed on a flexible substrate with different levels of pre-strain using ABAQUS and ANSYS APDL.
+- Acquired the formula for the buckling form of the clamped-clamped beam at different two-end compression displacements utilizing the perturbation method.
+- Used polyimide (PI) to cut and simulate the rectangular test strips with matching parameters, carried out buckling experiments by securing both ends on a self-designed tensile-compression test rig, and observed the buckling behavior under different experiment parameters.
+- Used a shaking table and a piezoelectric chip to detect vibration intensities at various points on the buckling beam.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
