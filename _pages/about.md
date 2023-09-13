@@ -31,7 +31,6 @@ My research interest includes medical robots and medical imaging.
 - Computer Languages: MATLAB; Python
 
 # 📝 Research Experiences
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Excellent Undergraduate Graduation Project</div><img src='images/500x300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,6 +38,16 @@ Geometrical and Vibrational Properties of a Clamped-clamped Beam under Large Def
 - Simulated the buckling characteristics and vibration modal response of a clamped-clamped beam fixed on a flexible substrate with different levels of pre-strain using ABAQUS and ANSYS APDL.
 - Acquired the formula for the buckling form of the clamped-clamped beam at different two-end compression displacements utilizing the perturbation method.
 - Used polyimide (PI) to cut and simulate the rectangular test strips with matching parameters, carried out buckling experiments by securing both ends on a self-designed tensile-compression test rig, and observed the buckling behavior under different experiment parameters.
+- Used a shaking table and a piezoelectric chip to detect vibration intensities at various points on the buckling beam.
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Excellent Undergraduate Graduation Project</div><img src='images/500x300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Geometrical and Vibrational Properties of a Clamped-clamped Beam under Large Deformation
+- Simulated the buckling characteristics and vibration modal response of a clamped-clamped beam fixed on a flexible substrate with different levels of pre-strain using ABAQUS and ANSYS APDL.
+- Acquired the formula for the buckling form of the clamped-clamped beam at different two-end compression displacements utilizing the perturbation method.
+- Used polyimide (PI) to cut and simulate the rectangular test strips with matching parameters, carried out buckling experiments by securing both ends on a self-designed tensile-compression test rig, and observed the buckling behaviour under different experiment parameters.
 - Used a shaking table and a piezoelectric chip to detect vibration intensities at various points on the buckling beam.
 
 </div>
