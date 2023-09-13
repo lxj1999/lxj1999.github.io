@@ -27,12 +27,12 @@ My research interest includes medical robots and medical imaging.
 - *2019.01 - 2019.05*, Visiting International Student Program, University of Wisconsin-Madison (UW-Madison), USA
 
 # 🛠 Skills
-- Engineering Software: ABAQUS; ANSYS APDL; COMSOL; SOLIDWORKS; AUTOCAD
-- Computer Languages: MATLAB; PYTHON
+- Engineering Software: Abaqus; Ansys APDL; COMSOL; SolidWorks; AutoCAD
+- Computer Languages: MATLAB; Python
 
 # 📝 Research Experiences
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Excellent Undergraduate Graduation Project</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -44,7 +44,6 @@ My research interest includes medical robots and medical imaging.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 📑 Course Projects
 - *2023.08 - 2023.12*, Ongoing, Virtual Ping-pong Player Trained by Reinforcement Learning, NUS
@@ -67,7 +66,6 @@ My research interest includes medical robots and medical imaging.
 - *2019.09 - 2019.12*, Automatic Walkway Ladder Design, XJTU
   - Utilized MATLAB to calculate and do strength checks of all parameters of the speed reducer in the walkway ladder based on real parameters.
   - Utilized SolidWorks to model the worm gear speed reducer and convert the 3D model into standardized 2D drawings using AutoCAD.
-<br/>
 - *2019.01 - 2019.05*, Truck Reducer Design, UW-Madison
   - Utilized EES to calculate and do strength checks of all parameters of the reducer in a truck based on given torque and power.
   - Utilized SolidWorks to model the three-stage cylindrical gear reducer.
@@ -81,6 +79,8 @@ My research interest includes medical robots and medical imaging.
 # 💻 Internships
 - *2022.11 - 2023.11*, CD Capital, Department of Medical Device Investment, Investment Analyst Intern
   - Involved in investment analysis on medical devices, mainly ophthalmology surgical robots, endourology surgical robots, and minimally invasive neuromodulation.
+- *2021.07 - 2022.08*, Xi'an Jiaotong University, Department of Mechanical Engineering, Research Assistant
+  - Involved in the CAD drawing, acid resistance test, fatigue test, and tightness test for the anaesthetic machine.
 - *2019.06 - 2019.07*, GE Healthcare (Wuxi), Department of Anesthesia Machine, Summer Intern
   - Involved in the CAD drawing, acid resistance test, fatigue test, and tightness test for the anaesthetic machine.
 
