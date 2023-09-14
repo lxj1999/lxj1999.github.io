@@ -22,12 +22,12 @@ I am currently a Master of Science (Robotics) student at the National University
 My research interest includes medical robots and medical imaging.
 
 # 📖 Educations
-- *2023.01 - 2024.01(expected)*, M.Sc., Robotics, National University of Singapore (NUS), Singapore
+- *2023.01 - 2024.01 (expected)*, M.Sc., Robotics, National University of Singapore (NUS), Singapore
 - *2017.08 - 2021.07*, B.Eng., Mechanical Engineering, Xi'an Jiaotong University (XJTU), China
 - *2019.01 - 2019.05*, Visiting International Student Program, University of Wisconsin-Madison (UW-Madison), USA
 
 # 📚 Standardized Scores
-- GPA: NUS: 4.8/5.0; XJTU: 86.94/100 (WES: 3.7/4.0); UW-Madison: 3.7/4.0.
+- GPA: NUS: 4.8/5.0; XJTU: 86.94/100 (WES: 3.72/4.0); UW-Madison: 3.7/4.0.
 - IELTS: Overall: 7.5 (L:8.0, R:9.0, W:6.5, S:6.0), expired on 01/Jul/2025.
 - GRE: Overal: 319+3.0 (V:149, Q:170), expired on 28/Aug/2025.
 
@@ -48,7 +48,7 @@ My research interest includes medical robots and medical imaging.
   - Produced four solenoid valves with different levels of wear on the outer surface of the spool, and measured the data on a hydraulic test rig using a piezoelectric vibration sensor, and collated into a corresponding dataset.
   - Utilized PyTorch-based ResNet to perform fault diagnosis and prediction on bearings and solenoid valves.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Excellent Undergraduate Graduation Project</div><img src='images/500x300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Excellent Undergraduate Graduation Project</div><img src='images/500x300.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 - *2020.02 - 2021.07*, Geometrical and Vibrational Properties of a Clamped-clamped Beam under Large Deformation, XJTU
@@ -57,7 +57,6 @@ My research interest includes medical robots and medical imaging.
   - Used polyimide (PI) to cut and simulate the rectangular test strips with matching parameters, carried out buckling experiments by securing both ends on a self-designed tensile-compression test rig, and observed the buckling behaviour under different experiment parameters.
   - Used a shaking table and a piezoelectric chip to detect vibration intensities at various points on the buckling beam.
 
-</div>
 </div>
 
 
