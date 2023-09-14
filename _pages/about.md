@@ -47,10 +47,10 @@ My research interest includes medical robots and medical imaging.
 <div class='paper-box-text' markdown="1">
 
 - *2020.02 - 2021.07*, Geometrical and Vibrational Properties of a Clamped-clamped Beam under Large Deformation, XJTU
-- Simulated the buckling characteristics and vibration modal response of a clamped-clamped beam fixed on a flexible substrate with different levels of pre-strain using ABAQUS and ANSYS APDL.
-- Acquired the formula for the buckling form of the clamped-clamped beam at different two-end compression displacements utilizing the perturbation method.
-- Used polyimide (PI) to cut and simulate the rectangular test strips with matching parameters, carried out buckling experiments by securing both ends on a self-designed tensile-compression test rig, and observed the buckling behaviour under different experiment parameters.
-- Used a shaking table and a piezoelectric chip to detect vibration intensities at various points on the buckling beam.
+  - Simulated the buckling characteristics and vibration modal response of a clamped-clamped beam fixed on a flexible substrate with different levels of pre-strain using ABAQUS and ANSYS APDL.
+  - Acquired the formula for the buckling form of the clamped-clamped beam at different two-end compression displacements utilizing the perturbation method.
+  - Used polyimide (PI) to cut and simulate the rectangular test strips with matching parameters, carried out buckling experiments by securing both ends on a self-designed tensile-compression test rig, and observed the buckling behaviour under different experiment parameters.
+  - Used a shaking table and a piezoelectric chip to detect vibration intensities at various points on the buckling beam.
 
 </div>
 </div>
@@ -80,13 +80,7 @@ My research interest includes medical robots and medical imaging.
 - *2019.01 - 2019.05*, Truck Reducer Design, UW-Madison
   - Utilized EES to calculate and do strength checks of all parameters of the reducer in a truck based on given torque and power.
   - Utilized SolidWorks to model the three-stage cylindrical gear reducer.
-
-# 🎖 Honors and Awards
-- *2021.11* Second Prize in the Excellent General Course Paper and Teaching Outcome, Xi’an Jiaotong University
-- *2021.07* Excellent Undergraduate Graduation Project (Top 1%), Xi'an Jiaotong University
-- *2020.05* School-level Second Scholarship, Xi’an Jiaotong University
-- *2019.05* Second Scholarship, SMC Educational Foundation
-
+ 
 # 💻 Internships
 - *2022.11 - 2023.11*, CD Capital, Department of Medical Device Investment, Investment Analyst Intern
   - Involved in investment analysis on medical devices, mainly ophthalmology surgical robots, endourology surgical robots, and minimally invasive neuromodulation.
@@ -96,3 +90,8 @@ My research interest includes medical robots and medical imaging.
 - *2019.06 - 2019.07*, GE Healthcare (Wuxi), Department of Anesthesia Machine, Summer Intern
   - Involved in the CAD drawing, acid resistance test, fatigue test, and tightness test for the anaesthetic machine.
 
+# 🎖 Honors and Awards
+- *2021.11* Second Prize in the Excellent General Course Paper and Teaching Outcome, Xi’an Jiaotong University
+- *2021.07* Excellent Undergraduate Graduation Project (Top 1%), Xi'an Jiaotong University
+- *2020.05* School-level Second Scholarship, Xi’an Jiaotong University
+- *2019.05* Second Scholarship, SMC Educational Foundation
