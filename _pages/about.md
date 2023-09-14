@@ -48,7 +48,7 @@ My research interest includes medical robots and medical imaging.
   - Produced four solenoid valves with different levels of wear on the outer surface of the spool, and measured the data on a hydraulic test rig using a piezoelectric vibration sensor, and collated into a corresponding dataset.
   - Utilized PyTorch-based ResNet to perform fault diagnosis and prediction on bearings and solenoid valves.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Excellent Undergraduate Graduation Project</div><img src='images/500x300.jpg' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Excellent Undergraduate Graduation Project</div><img src='images/500x300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - *2020.02 - 2021.07*, Geometrical and Vibrational Properties of a Clamped-clamped Beam under Large Deformation, XJTU
@@ -57,7 +57,7 @@ My research interest includes medical robots and medical imaging.
   - Used polyimide (PI) to cut and simulate the rectangular test strips with matching parameters, carried out buckling experiments by securing both ends on a self-designed tensile-compression test rig, and observed the buckling behaviour under different experiment parameters.
   - Used a shaking table and a piezoelectric chip to detect vibration intensities at various points on the buckling beam.
 
-</div>
+</div></div>
 
 
 # 📑 Course Projects
