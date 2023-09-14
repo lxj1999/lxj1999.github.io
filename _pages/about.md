@@ -32,7 +32,7 @@ My research interest includes medical robots and medical imaging.
 
 # 📝 Research Experiences
 - *2023.04 - 2023.12*, Semantic Segmentation of Laparoscopic Surgery Videos Based on HGNN, NUS
-  - Assisted surgeons in collecting and categorizing laparoscopic surgery video datasets, and annotated 10 surgical videos (800 video scenes) under medical guidance.
+  - Assisted surgeons in collecting, categorizing and annotating laparoscopic surgery video datasets.
   - Trained video semantic segmentation model baselines using open-source library "MMSegmentation".
 - *2021.11 - 2022.08*, Terahertz Detectors Based on Carbon Nanomaterials, XJTU
   - Prepared carbon nanotube (CNT) films by wet methods, specifically, dispersed CNT powder into organic solvents using an ultrasonic crusher, and preparing dry 5-micron-thick CNT films using vacuum filtration equipment.
