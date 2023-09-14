@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master of Science (Robotics) student at the National University of Singapore. During my research assistant period at Xi'an Jiaotong University, I worked with Prof. Liuyang Zhang in the Department of Mechanical Engineering. From 2017 to 2021, I studied at Xi'an Jiaotong University and received a B.Eng. degree in Mechanical Engineering. I was awarded 'Excellent Undergraduate Graduation Project (Top 1%)' to finish my undergraduate study.
+I am currently a Master of Science (Robotics) student at the National University of Singapore. From 2017 to 2021, I studied at Xi'an Jiaotong University and received a B.Eng. degree in Mechanical Engineering. I was awarded 'Excellent Undergraduate Graduation Project (Top 1%)' to finish my undergraduate study.
 
 My research interest includes medical robots and medical imaging.
 
