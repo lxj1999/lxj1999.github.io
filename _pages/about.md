@@ -68,18 +68,25 @@ My research interest includes medical robots and medical imaging.
   - Designed a data generation method for eight workpieces, six machine tools, and six processes for the FJSP problem.
   - Utilized genetic algorithm (GA), ant colony optimization algorithm (ACO) and particle swarm optimization algorithm (PSO) to solve the FJSP problem.
   - Plotted Gantt charts for the FJSP problem.
+- *2020.02 - 2020.07*, Roll to Roll (R2R) Machine Measurement System Design, XJTU
+  - Utilized SolidWorks to dismantle the given R2R machine and identified optimal locations for pressure sensors.
+  - Conducted a literature review in the field of R2R pressure measurement and elucidated the rationale behind selecting the specific sensor.
 - *2020.02 - 2020.07*, “More hot water” Intelligent Water Dispenser Design, XJTU
   - Utilized SolidWorks to model the outer frame of the water dispenser and assembled the whole model.
   - Assembled the Intelligent Water Dispenser with custom materials.
 - *2020.02 - 2020.07*, Deep Learning and Signal Processing in Machine Fault Diagnosis, XJTU
   - Utilized Matlab for frequency-domain and time-domain analysis, wavelet analysis, FFT, EMD envelope demodulation, and spectral kurtosis calculation on CWRU bearing dataset.
   - Utilized CNN and RNN on bearing fault diagnosis of CWRU bearing dataset.
+- *2019.09 - 2019.12*, Literature Review on Planetary Gearbox Fault Diagnosis, XJTU
+  - Conducted a literature review in the field of planetary gearbox fault diagnosis.
 - *2019.09 - 2019.12*, Automatic Walkway Ladder Design, XJTU
   - Utilized MATLAB to calculate and do strength checks of all parameters of the speed reducer in the walkway ladder based on real parameters.
   - Utilized SolidWorks to model the worm gear speed reducer and convert the 3D model into standardized 2D drawings using AutoCAD.
 - *2019.01 - 2019.05*, Truck Reducer Design, UW-Madison
   - Utilized EES to calculate and do strength checks of all parameters of the reducer in a truck based on given torque and power.
   - Utilized SolidWorks to model the three-stage cylindrical gear reducer.
+- *2019.02 - 2019.03*, Injection Molding Design and Simulation, UW-Madison
+  - Utilized Moldex3D to design and simulate polymer flow in designated component mould.
  
 # 💻 Internships
 - *2022.11 - 2023.11*, CD Capital, Department of Medical Device Investment, Investment Analyst Intern
