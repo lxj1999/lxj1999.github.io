@@ -5,6 +5,9 @@ main:
 
   - title: "Educations"
     url: "/#-educations"
+
+  - title: "Standardized Scores"
+    url: "/#-standardized-scores"
     
   - title: "Skills"
     url: "/#-skills"
