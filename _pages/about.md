@@ -69,7 +69,7 @@ My research interest includes medical robots and medical imaging.
   - Utilized genetic algorithm (GA), ant colony optimization algorithm (ACO) and particle swarm optimization algorithm (PSO) to solve the FJSP problem.
   - Plotted Gantt charts for the FJSP problem.
 - *2020.02 - 2020.07*, Roll to Roll (R2R) Machine Measurement System Design, XJTU
-  - Utilized SolidWorks to disassemble the given R2R machine and identified optimal locations for pressure sensors.
+  - Utilized SolidWorks to disassemble the given R2R machine model and identified optimal locations for pressure sensors.
   - Conducted a literature review in the field of R2R pressure measurement and elucidated the rationale behind selecting the specific sensor.
 - *2020.02 - 2020.07*, “More hot water” Intelligent Water Dispenser Design, XJTU
   - Utilized SolidWorks to model the outer frame of the water dispenser and assembled the whole model.
