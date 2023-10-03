@@ -36,8 +36,7 @@ My research interest includes medical robots and medical imaging.
 - Computer Languages: MATLAB; Python
 
 # 📝 Research Experiences
-- *2023.09 - 2023.12*, Ongoing, Grasp of Blanket, NUS
-- *2023.04 - 2023.09*, Semantic Segmentation of Laparoscopic Surgery Videos Based on HGNN, NUS
+- *2023.04 - 2023.08*, Semantic Segmentation of Laparoscopic Surgery Videos Based on HGNN, NUS
   - Assisted surgeons in collecting, categorizing and annotating laparoscopic surgery video datasets.
   - Trained video semantic segmentation model baselines using open-source library "MMSegmentation".
 - *2021.11 - 2022.08*, Terahertz Detectors Based on Carbon Nanomaterials, XJTU
@@ -62,6 +61,7 @@ My research interest includes medical robots and medical imaging.
 
 
 # 📑 Course Projects
+- *2023.09 - 2023.12*, Ongoing, Grasp of Blanket, NUS
 - *2023.08 - 2023.12*, Ongoing, Virtual Ping-pong Player Trained by Reinforcement Learning, NUS
 - *2023.02 - 2023.05*, CV Segmentation and AI Classification of Picture of Chip Index, NUS
   - Utilized Matlab to segment letters and numbers in the picture with self-written functions (worked as regionprops, bwlabel and so on).
@@ -84,6 +84,7 @@ My research interest includes medical robots and medical imaging.
 - *2019.09 - 2019.12*, Literature Review on Planetary Gearbox Fault Diagnosis, XJTU
   - Conducted a literature review in the field of planetary gearbox fault diagnosis.
 - *2019.09 - 2019.12*, Automatic Walkway Ladder Design, XJTU
+  - Investigated the demand for the walkway ladder in the elderly community and measured the parameters.
   - Utilized MATLAB to calculate and do strength checks of all parameters of the speed reducer in the walkway ladder based on real parameters.
   - Utilized SolidWorks to model the worm gear speed reducer and convert the 3D model into standardized 2D drawings using AutoCAD.
 - *2019.01 - 2019.05*, Truck Reducer Design, UW-Madison
