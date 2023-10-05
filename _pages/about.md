@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master of Science (Robotics) student at the National University of Singapore. From 2017 to 2021, I studied at Xi'an Jiaotong University and received a B.Eng. degree in Mechanical Engineering. I was awarded 'Excellent Undergraduate Graduation Project (Top 1%)' to finish my undergraduate study.
+I am currently a Master of Science (Robotics) student at the National University of Singapore. From 2017 to 2021, I studied at Xi'an Jiaotong University and received a B.Eng. degree in Mechanical Engineering. I was awarded the 'Excellent Undergraduate Graduation Project (Top 1%)' to finish my undergraduate study.
 
 My research interest includes medical robots and medical imaging.
 
 # 📖 Educations
-- *2023.01 - 2024.01 (expected)*, M.Sc., Robotics, National University of Singapore (NUS), Singapore
+- *2023.01 - 2024.01*, M.Sc., Robotics, National University of Singapore (NUS), Singapore
 - *2017.08 - 2021.07*, B.Eng., Mechanical Engineering, Xi'an Jiaotong University (XJTU), China
-- *2019.01 - 2019.05*, Visiting International Student Program, University of Wisconsin-Madison (UW-Madison), USA
+- *2019.01 - 2019.05*, Visiting International Student Program, University of Wisconsin-Madison (UW-Madison), United States
 
 # 📚 Standardized Scores
 - GPA: NUS: 4.8/5.0; XJTU: 86.94/100 (WES: 3.72/4.0); UW-Madison: 3.7/4.0.
@@ -37,11 +37,11 @@ My research interest includes medical robots and medical imaging.
 
 # 📝 Research Experiences
 - *2023.04 - 2023.08*, Semantic Segmentation of Laparoscopic Surgery Videos Based on HGNN, NUS
-  - Assisted surgeons in collecting, categorizing and annotating laparoscopic surgery video datasets.
+  - Assisted surgeons in collecting, categorizing, and annotating laparoscopic surgery video datasets.
   - Trained video semantic segmentation model baselines using open-source library "MMSegmentation".
 - *2021.11 - 2022.08*, Terahertz Detectors Based on Carbon Nanomaterials, XJTU
   - Prepared carbon nanotube (CNT) films by wet methods, specifically, dispersed CNT powder into organic solvents using an ultrasonic crusher, and preparing dry 5-micron-thick CNT films using vacuum filtration equipment.
-  - Executed vapor deposition of metal electrodes onto CNT films covered with metal mask using a magnetron sputtering machine or an electron beam evaporation system.
+  - Executed vapor deposition of metal electrodes onto CNT films covered with a metal mask using a magnetron sputtering machine or an electron beam evaporation system.
   - Engaged in the thermoelectric response and terahertz attenuation measurement of CNT-based devices using the Terahertz Time-Domain Spectroscopy (THz TDS) and Terahertz Quantum Cascade Lasers (THz QCL) system.
 - *2021.08 - 2022.03*, Test Verification of Key Equipment Failure Type Identification and Failure Prediction, XJTU
   - Produced four faulty bearings with different lengths of wear on the inner race, measured the data on a bearing test rig using piezoelectric vibration sensors, and collated them into a corresponding dataset.
@@ -61,8 +61,8 @@ My research interest includes medical robots and medical imaging.
 
 
 # 📑 Course Projects
-- *2023.09 - 2023.12*, Ongoing, Grasp of Blanket, NUS
-- *2023.08 - 2023.12*, Ongoing, Virtual Ping-pong Player Trained by Reinforcement Learning, NUS
+- *2023.09 - 2023.12*, Ongoing, Grasp of Folded Blanket, NUS
+- *2023.08 - 2023.12*, Ongoing, Reinforcement Learning on Dynamic Restaurant Scheduling Problem with Flexible Serving Time, NUS
 - *2023.02 - 2023.05*, CV Segmentation and AI Classification of Picture of Chip Index, NUS
   - Utilized Matlab to segment letters and numbers in the picture with self-written functions (worked as regionprops, bwlabel and so on).
   - Utilized Matlab to recognize and classify letters and numbers in the picture with simple CNN.
@@ -91,16 +91,16 @@ My research interest includes medical robots and medical imaging.
   - Utilized EES to calculate and do strength checks of all parameters of the reducer in a truck based on given torque and power.
   - Utilized SolidWorks to model the three-stage cylindrical gear reducer.
 - *2019.02 - 2019.03*, Injection Molding Design and Simulation, UW-Madison
-  - Utilized Moldex3D to design and simulate polymer flow in designated component mould.
+  - Utilized Moldex3D to design and simulate polymer flow in the designated component mould.
  
 # 💻 Internships
 - *2022.11 - 2023.11*, CD Capital, Department of Medical Device Investment, Investment Analyst Intern
   - Involved in investment analysis on medical devices, mainly ophthalmology surgical robots, endourology surgical robots, and minimally invasive neuromodulation.
 - *2021.07 - 2022.08*, Xi'an Jiaotong University, Department of Mechanical Engineering, Research Assistant
-  - Involved in 'Terahertz Detectors Based on Carbon Nanomaterials' project.
-  - Involved in 'Test Verification of Key Equipment Failure Type Identification and Failure Prediction' project.
+  - Involved in the 'Terahertz Detectors Based on Carbon Nanomaterials' project.
+  - Involved in the 'Test Verification of Key Equipment Failure Type Identification and Failure Prediction' project.
 - *2019.06 - 2019.07*, GE Healthcare (Wuxi), Department of Anesthesia Machine, Summer Intern
-  - Involved in the CAD drawing, acid resistance test, fatigue test, and tightness test for the anaesthetic machine.
+  - Involved in the CAD drawing, acid resistance test, fatigue test, and tightness test for the anesthetic machine.
 
 # 🎖 Honors and Awards
 - *2021.11* Second Prize in the Excellent General Course Paper and Teaching Outcome, Xi’an Jiaotong University
