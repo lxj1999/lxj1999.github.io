@@ -36,7 +36,7 @@ My research interest includes medical robots and medical imaging.
 - Computer Languages: MATLAB; Python
 
 # 📝 Research Experiences
-- *2023.04 - 2023.08*, Semantic Segmentation of Laparoscopic Surgery Videos Based on HGNN, NUS
+- *2023.04 - 2023.12*, Semantic Segmentation of Laparoscopic Surgery Videos Based on HGNN, NUS
   - Assisted surgeons in collecting, categorizing, and annotating laparoscopic surgery video datasets.
   - Trained video semantic segmentation model baselines using open-source library "MMSegmentation".
 - *2021.11 - 2022.08*, Terahertz Detectors Based on Carbon Nanomaterials, XJTU
