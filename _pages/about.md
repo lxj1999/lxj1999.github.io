@@ -36,7 +36,7 @@ My research interest includes medical robots and medical imaging.
 - Computer Languages: MATLAB; Python
 
 # 📝 Research Experiences
-- *2023.04 - 2023.12*, Semantic Segmentation of Gastric Cancer Laparoscopic Surgery Videos, NUS
+- *2023.04 - 2023.10*, Semantic Segmentation of Gastric Cancer Laparoscopic Surgery Videos, NUS
   - Constructed a self-collected gastric cancer laparoscopic surgery video dataset (4 videos, 500 key frames), which is specially annotated for recognizing safe zone (where laparoscopic surgical instruments can safely cut and go deep) and critical organs.
   - Collected, standardized, categorized, filtered and annotated laparoscopic surgery videos under surgeons’ supervision.
   - Trained laparoscopic surgery video semantic segmentation baseline models on repaired CholecSeg8k dataset using UNet, UNet++, DeepLabv3 and DeepLabV3+ models. 
@@ -45,7 +45,7 @@ My research interest includes medical robots and medical imaging.
   - Executed vapor deposition of metal electrodes (Au and Al) onto CNT films covered with metal mask to produce thermoelectric terahertz detectors using magnetron sputtering machine and electron beam evaporation system respectively. 
   - Engaged in the terahertz response measurement of CNT-based detectors using Terahertz Time-Domain Spectroscopy (THz TDS) system and thermoelectric response measurement using Terahertz Quantum Cascade Lasers (THz QCL) system and a lock-in amplifier.
 - *2021.08 - 2022.03*, Hydraulic Equipment Failure Type Identification and Failure Prediction, XJTU
-  - Produced four faulty bearings with different lengths of wear on the inner race and four solenoid valves with different levels of wear on the outer surface of the spool.
+  - Produced four faulty bearings with different lengths of wear on the inner race and four faulty solenoid valves with different levels of wear on the outer surface of the spool.
   - Measured the vibration data on a hydraulic test rig with faulty bearings and faulty solenoid valves respectively using piezoelectric vibration sensors, and collated into two corresponding datasets.
   - Utilized ResNet50 to perform fault diagnosis and life prediction on bearings and solenoid valves.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Excellent Undergraduate Graduation Project</div><img src='images/500x300.jpg' alt="sym" width="100%"></div></div>
@@ -62,12 +62,9 @@ My research interest includes medical robots and medical imaging.
 
 # 📑 Course Projects
 - *2023.09 - 2023.12*, Ongoing, Robot Grasp of Randomly-placed Blanket on Object, NUS
-  - Collected RGB images and corresponding depth information of randomly-placed color-labelled blankets 
-via a RGBD camera into a dataset.
- - Trained semantic segmentation models for randomly-placed color-labelled blankets to recognize their 
-corners and edges using UNet and DeepLabV3+. 
- - Controlled the Franka Emika robot arm to grasp the blanket at specified edge with a specified angle 
-based on semantic segmentation results and point cloud reconstruction. 
+  - Collected RGB images and corresponding depth information of randomly-placed color-labelled blankets via a RGBD camera into a dataset.
+  - Trained semantic segmentation models for randomly-placed color-labelled blankets to recognize their corners and edges using UNet and DeepLabV3+. 
+  - Controlled the Franka Emika robot arm to grasp the blanket at specified edge with a specified angle based on semantic segmentation results and point cloud reconstruction. 
 - *2023.08 - 2023.12*, Ongoing, Reinforcement Learning on Dynamic Restaurant Scheduling Problem with Flexible Serving Time, NUS
 - *2023.02 - 2023.05*, CV Segmentation and AI Classification of Picture of Chip Index, NUS
   - Utilized Matlab to segment letters and numbers in the picture with self-written functions (worked as regionprops, bwlabel and so on).
@@ -76,8 +73,7 @@ based on semantic segmentation results and point cloud reconstruction.
   - Utilized SDPT3 solver and SeDuMi solver on CVX interface in Matlab to solve the pure primal form of SDP.
 - *2020.02 - 2020.12*, Swarm Intelligence Algorithms in Solving Flexible Job Shop Scheduling Problem (FJSP), XJTU
   - Designed an FJSP data generation method with eight workpieces, six machines, and six jobs. 
-  - Utilized genetic algorithm, ant colony optimization algorithm and particle swarm optimization algorithm 
-respectively to solve the FJSP problem with randomly-generated datasets. 
+  - Utilized genetic algorithm, ant colony optimization algorithm and particle swarm optimization algorithm respectively to solve the FJSP problem with randomly-generated datasets. 
   - Plotted Gantt charts for the FJSP problem.
 - *2020.02 - 2020.07*, Roll to Roll (R2R) Machine Measurement System Design, XJTU
   - Utilized SolidWorks to disassemble the given R2R machine model and identified optimal locations for pressure sensors.
