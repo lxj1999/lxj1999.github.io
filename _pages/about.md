@@ -36,32 +36,38 @@ My research interest includes medical robots and medical imaging.
 - Computer Languages: MATLAB; Python
 
 # 📝 Research Experiences
-- *2023.04 - 2023.12*, Semantic Segmentation of Laparoscopic Surgery Videos Based on HGNN, NUS
-  - Assisted surgeons in collecting, categorizing, and annotating laparoscopic surgery video datasets.
-  - Trained video semantic segmentation model baselines using open-source library "MMSegmentation".
-- *2021.11 - 2022.08*, Terahertz Detectors Based on Carbon Nanomaterials, XJTU
-  - Prepared carbon nanotube (CNT) films by wet methods, specifically, dispersed CNT powder into organic solvents using an ultrasonic crusher, and preparing dry 5-micron-thick CNT films using vacuum filtration equipment.
-  - Executed vapor deposition of metal electrodes onto CNT films covered with a metal mask using a magnetron sputtering machine or an electron beam evaporation system.
-  - Engaged in the thermoelectric response and terahertz attenuation measurement of CNT-based devices using the Terahertz Time-Domain Spectroscopy (THz TDS) and Terahertz Quantum Cascade Lasers (THz QCL) system.
-- *2021.08 - 2022.03*, Test Verification of Key Equipment Failure Type Identification and Failure Prediction, XJTU
-  - Produced four faulty bearings with different lengths of wear on the inner race, measured the data on a bearing test rig using piezoelectric vibration sensors, and collated them into a corresponding dataset.
-  - Produced four solenoid valves with different levels of wear on the outer surface of the spool, and measured the data on a hydraulic test rig using a piezoelectric vibration sensor, and collated into a corresponding dataset.
-  - Utilized PyTorch-based ResNet to perform fault diagnosis and prediction on bearings and solenoid valves.
-
+- *2023.04 - 2023.12*, Semantic Segmentation of Gastric Cancer Laparoscopic Surgery Videos, NUS
+  - Constructed a self-collected gastric cancer laparoscopic surgery video dataset (4 videos, 500 key frames), which is specially annotated for recognizing safe zone (where laparoscopic surgical instruments can safely cut and go deep) and critical organs.
+  - Collected, standardized, categorized, filtered and annotated laparoscopic surgery videos under surgeons’ supervision.
+  - Trained laparoscopic surgery video semantic segmentation baseline models on repaired CholecSeg8k dataset using UNet, UNet++, DeepLabv3 and DeepLabV3+ models. 
+- *2021.11 - 2022.08*, Preparation and Performance Test of Carbon-nanotube Terahertz Detectors, XJTU
+  - Prepared carbon nanotube (CNT) films by wet methods, specifically, dispersed CNT powder into organic solvents using an ultrasonic crusher, and preparing 5-micron-thick CNT films using vacuum filtration. 
+  - Executed vapor deposition of metal electrodes (Au and Al) onto CNT films covered with metal mask to produce thermoelectric terahertz detectors using magnetron sputtering machine and electron beam evaporation system respectively. 
+  - Engaged in the terahertz response measurement of CNT-based detectors using Terahertz Time-Domain Spectroscopy (THz TDS) system and thermoelectric response measurement using Terahertz Quantum Cascade Lasers (THz QCL) system and a lock-in amplifier.
+- *2021.08 - 2022.03*, Hydraulic Equipment Failure Type Identification and Failure Prediction, XJTU
+  - Produced four faulty bearings with different lengths of wear on the inner race and four solenoid valves with different levels of wear on the outer surface of the spool.
+  - Measured the vibration data on a hydraulic test rig with faulty bearings and faulty solenoid valves respectively using piezoelectric vibration sensors, and collated into two corresponding datasets.
+  - Utilized ResNet50 to perform fault diagnosis and life prediction on bearings and solenoid valves.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Excellent Undergraduate Graduation Project</div><img src='images/500x300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - *2020.02 - 2021.07*, Geometrical and Vibrational Properties of a Clamped-clamped Beam under Large Deformation, XJTU
-  - Simulated the buckling characteristics and vibration modal response of a clamped-clamped beam fixed on a flexible substrate with different levels of pre-strain using ABAQUS and ANSYS APDL.
+  - Simulated the buckling characteristics and vibration modal response of a clamped-clamped beam fixed on a flexible substrate with different levels of pre-strain using ABAQUS (3D) and ANSYS APDL (2D).
   - Acquired the formula for the buckling form of the clamped-clamped beam at different two-end compression displacements utilizing the perturbation method.
-  - Used polyimide (PI) to cut and simulate the rectangular test strips with matching parameters, carried out buckling experiments by securing both ends on a self-designed tensile-compression test rig, and observed the buckling behaviour under different experiment parameters.
-  - Used a shaking table and a piezoelectric chip to detect vibration intensities at various points on the buckling beam.
+  - Used polyimide (PI) to produce and simulate the rectangular test strips with matching parameters in FEA, carried out buckling experiments by securing both ends on a self-designed tensile-compression test rig, and observed the buckling behaviour under different parameters. 
+  - Used flexible piezoelectric sensors to detect vibration intensity changes at different points on the buckled beam under 0 to 500Hz vibration produced by a shaking table.
 
 </div></div>
 
 
 # 📑 Course Projects
-- *2023.09 - 2023.12*, Ongoing, Grasp of Folded Blanket, NUS
+- *2023.09 - 2023.12*, Ongoing, Robot Grasp of Randomly-placed Blanket on Object, NUS
+  - Collected RGB images and corresponding depth information of randomly-placed color-labelled blankets 
+via a RGBD camera into a dataset.
+ - Trained semantic segmentation models for randomly-placed color-labelled blankets to recognize their 
+corners and edges using UNet and DeepLabV3+. 
+ - Controlled the Franka Emika robot arm to grasp the blanket at specified edge with a specified angle 
+based on semantic segmentation results and point cloud reconstruction. 
 - *2023.08 - 2023.12*, Ongoing, Reinforcement Learning on Dynamic Restaurant Scheduling Problem with Flexible Serving Time, NUS
 - *2023.02 - 2023.05*, CV Segmentation and AI Classification of Picture of Chip Index, NUS
   - Utilized Matlab to segment letters and numbers in the picture with self-written functions (worked as regionprops, bwlabel and so on).
@@ -69,8 +75,9 @@ My research interest includes medical robots and medical imaging.
 - *2023.03 - 2023.04*, Comparison of Solvers in Solving SDP (Semi-definite Program) Problems, NUS
   - Utilized SDPT3 solver and SeDuMi solver on CVX interface in Matlab to solve the pure primal form of SDP.
 - *2020.02 - 2020.12*, Swarm Intelligence Algorithms in Solving Flexible Job Shop Scheduling Problem (FJSP), XJTU
-  - Designed a data generation method for eight workpieces, six machine tools, and six processes for the FJSP problem.
-  - Utilized genetic algorithm (GA), ant colony optimization algorithm (ACO) and particle swarm optimization algorithm (PSO) to solve the FJSP problem.
+  - Designed an FJSP data generation method with eight workpieces, six machines, and six jobs. 
+  - Utilized genetic algorithm, ant colony optimization algorithm and particle swarm optimization algorithm 
+respectively to solve the FJSP problem with randomly-generated datasets. 
   - Plotted Gantt charts for the FJSP problem.
 - *2020.02 - 2020.07*, Roll to Roll (R2R) Machine Measurement System Design, XJTU
   - Utilized SolidWorks to disassemble the given R2R machine model and identified optimal locations for pressure sensors.
@@ -84,7 +91,7 @@ My research interest includes medical robots and medical imaging.
 - *2019.09 - 2019.12*, Literature Review on Planetary Gearbox Fault Diagnosis, XJTU
   - Conducted a literature review in the field of planetary gearbox fault diagnosis.
 - *2019.09 - 2019.12*, Automatic Walkway Ladder Design, XJTU
-  - Investigated the demand for the walkway ladder in the elderly community and measured the parameters.
+  - Investigated the demand for the walkway ladder in the elderly community and measured real parameters.
   - Utilized MATLAB to calculate and do strength checks of all parameters of the speed reducer in the walkway ladder based on real parameters.
   - Utilized SolidWorks to model the worm gear speed reducer and convert the 3D model into standardized 2D drawings using AutoCAD.
 - *2019.01 - 2019.05*, Truck Reducer Design, UW-Madison
@@ -95,10 +102,10 @@ My research interest includes medical robots and medical imaging.
  
 # 💻 Internships
 - *2022.11 - 2023.11*, CD Capital, Department of Medical Device Investment, Investment Analyst Intern
-  - Involved in investment analysis on medical devices, mainly ophthalmology surgical robots, endourology surgical robots, and minimally invasive neuromodulation.
-- *2021.07 - 2022.08*, Xi'an Jiaotong University, Department of Mechanical Engineering, Research Assistant
-  - Involved in the 'Terahertz Detectors Based on Carbon Nanomaterials' project.
-  - Involved in the 'Test Verification of Key Equipment Failure Type Identification and Failure Prediction' project.
+  - Involved in investment analysis on medical devices, mainly ophthalmology surgical robots, endourology surgical robots, and minimally invasive neuromodulation devices.
+- *2021.07 - 2022.08*, Xi'an Jiaotong University, School of Mechanical Engineering, Research Assistant
+  - Involved in the 'Preparation and Performance Test of Carbon-nanotube Terahertz Detectors' project.
+  - Involved in the 'Hydraulic Equipment Failure Type Identification and Failure Prediction' project.
 - *2019.06 - 2019.07*, GE Healthcare (Wuxi), Department of Anesthesia Machine, Summer Intern
   - Involved in the CAD drawing, acid resistance test, fatigue test, and tightness test for the anesthetic machine.
 
