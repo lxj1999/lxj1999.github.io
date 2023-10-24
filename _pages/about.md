@@ -28,7 +28,7 @@ My research interest includes medical robots and medical imaging.
 
 # 📚 Standardized Scores
 - GPA: NUS: 4.8/5.0; XJTU: 86.94/100 (WES: 3.72/4.0); UW-Madison: 3.7/4.0.
-- IELTS: Overall: 7.5 (L:8.0, R:9.0, W:6.5, S:6.0), expired on 01/Jul/2025.
+- IELTS: Overall: 7.5 (L:8.0, R:8.5, W:6.5, S:6.5), expired on 21/Oct/2025.
 - GRE: Overal: 319+3.0 (V:149, Q:170), expired on 28/Aug/2025.
 
 # 🛠 Skills
