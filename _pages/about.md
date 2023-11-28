@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Master of Science (Robotics) student at the National University of Singapore. From 2017 to 2021, I studied at Xi'an Jiaotong University and received a B.Eng. degree in Mechanical Engineering. I was awarded the 'Excellent Undergraduate Graduation Project (Top 1%)' to finish my undergraduate study.
 
-My research interest includes medical robots and medical imaging.
+My research interest includes medical device (surgical robots) and medical imaging.
 
 # 📖 Educations
 - *2023.01 - 2024.01*, M.Sc., Robotics, National University of Singapore (NUS), Singapore
