@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master of Science (Robotics) student at the National University of Singapore. From 2017 to 2021, I studied at Xi'an Jiaotong University and received a B.Eng. degree in Mechanical Engineering. I was awarded the 'Excellent Undergraduate Graduation Project (Top 1%)' to finish my undergraduate study.
+I have graduated from the National University of Singapore and received a M.Sc. degree in Robotics. From 2017 to 2021, I studied at Xi'an Jiaotong University and received a B.Eng. degree in Mechanical Engineering. I was awarded the 'Excellent Undergraduate Graduation Project (Top 1%)' to finish my undergraduate study.
 
 My research interest includes medical device (surgical robots) and medical imaging.
 
@@ -27,7 +27,7 @@ My research interest includes medical device (surgical robots) and medical imagi
 - *2019.01 - 2019.05*, Visiting International Student Program, University of Wisconsin-Madison (UW-Madison), United States
 
 # 📚 Standardized Scores
-- GPA: NUS: 4.8/5.0; XJTU: 86.94/100 (WES: 3.72/4.0); UW-Madison: 3.7/4.0.
+- GPA: NUS: 4.75/5.0; XJTU: 86.94/100 (WES: 3.72/4.0); UW-Madison: 3.7/4.0.
 - IELTS: Overall: 8.0 (L:9.0, R:8.5, W:7.0, S:6.5), expired on 29/Oct/2025.
 - GRE: Overal: 319+3.0 (V:149, Q:170), expired on 28/Aug/2025.
 
