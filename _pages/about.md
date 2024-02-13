@@ -66,8 +66,8 @@ My research interest includes medical device (surgical robots) and medical imagi
   - Trained semantic segmentation models for randomly-placed color-labelled blankets to recognize their corners and edges using UNet and DeepLabV3+. 
   - Controlled the Franka Emika robot arm to grasp the blanket at specified edge with a specified angle based on semantic segmentation results and point cloud reconstruction. 
 - *2023.08 - 2023.12*, Reinforecement Learning on Self-written 'Fetch'-like Gym Environment, NUS
-  - Utilized Kuka-iiwa robot arm in gym environment for 3 Fetch tasks, 'Reach', 'Push' and 'Slide', by Pybullet.
-  - Trained RL model based on posiiton control and joint angle control.
+- Utilized Kuka-iiwa robot arm in gym environment for 3 Fetch tasks, 'Reach', 'Push' and 'Slide', by Pybullet.
+- Trained RL model based on posiiton control and joint angle control.
 - *2023.02 - 2023.05*, CV Segmentation and AI Classification of Picture of Chip Index, NUS
   - Utilized Matlab to segment letters and numbers in the picture with self-written functions (worked as regionprops, bwlabel and so on).
   - Utilized Matlab to recognize and classify letters and numbers in the picture with simple CNN.
