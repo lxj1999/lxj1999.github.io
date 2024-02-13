@@ -49,9 +49,6 @@ My research interest includes medical device (surgical robots) and medical imagi
   - Produced four faulty bearings with different lengths of wear on the inner race and four faulty solenoid valves with different levels of wear on the outer surface of the spool.
   - Measured the vibration data on a hydraulic test rig with faulty bearings and faulty solenoid valves respectively using piezoelectric vibration sensors, and collated into two corresponding datasets.
   - Utilized ResNet50 to perform fault diagnosis and life prediction on bearings and solenoid valves.
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Excellent Undergraduate Graduation Project</div><img src='images/500x300.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 - *2020.02 - 2021.07*, Geometrical and Vibrational Properties of a Clamped-clamped Beam under Large Deformation, XJTU
   - Simulated the buckling characteristics and vibration modal response of a clamped-clamped beam fixed on a flexible substrate with different levels of pre-strain using ABAQUS (3D) and ANSYS APDL (2D).
   - Acquired the formula for the buckling form of the clamped-clamped beam at different two-end compression displacements utilizing the perturbation method.
