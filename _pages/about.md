@@ -55,9 +55,6 @@ My research interest includes medical device (surgical robots) and medical imagi
   - Used polyimide (PI) to produce and simulate the rectangular test strips with matching parameters in FEA, carried out buckling experiments by securing both ends on a self-designed tensile-compression test rig, and observed the buckling behaviour under different parameters. 
   - Used flexible piezoelectric sensors to detect vibration intensity changes at different points on the buckled beam under 0 to 500Hz vibration produced by a shaking table.
 
-</div></div>
-
-
 # 📑 Course Projects
 - *2023.08 - 2023.12*, Robot Grasp of Randomly-placed Blanket on Object, NUS
   - Collected RGB images and corresponding depth information of randomly-placed color-labelled blankets via a RGBD camera into a dataset.
