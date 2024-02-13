@@ -49,10 +49,8 @@ My research interest includes medical device (surgical robots) and medical imagi
   - Produced four faulty bearings with different lengths of wear on the inner race and four faulty solenoid valves with different levels of wear on the outer surface of the spool.
   - Measured the vibration data on a hydraulic test rig with faulty bearings and faulty solenoid valves respectively using piezoelectric vibration sensors, and collated into two corresponding datasets.
   - Utilized ResNet50 to perform fault diagnosis and life prediction on bearings and solenoid valves.
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Excellent Undergraduate Graduation Project</div><img src='images/500x300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 - *2020.02 - 2021.07*, Geometrical and Vibrational Properties of a Clamped-clamped Beam under Large Deformation, XJTU
   - Simulated the buckling characteristics and vibration modal response of a clamped-clamped beam fixed on a flexible substrate with different levels of pre-strain using ABAQUS (3D) and ANSYS APDL (2D).
   - Acquired the formula for the buckling form of the clamped-clamped beam at different two-end compression displacements utilizing the perturbation method.
@@ -67,7 +65,7 @@ My research interest includes medical device (surgical robots) and medical imagi
   - Collected RGB images and corresponding depth information of randomly-placed color-labelled blankets via a RGBD camera into a dataset.
   - Trained semantic segmentation models for randomly-placed color-labelled blankets to recognize their corners and edges using UNet and DeepLabV3+. 
   - Controlled the Franka Emika robot arm to grasp the blanket at specified edge with a specified angle based on semantic segmentation results and point cloud reconstruction. 
-- *2023.08 - 2023.12*, Reinforecement Learning on Self-written 'Fetch'-like Gym Enviroment, NUS
+- *2023.08 - 2023.12*, Reinforecement Learning on Self-written 'Fetch'-like Gym Environment, NUS
   - Utilized Kuka-iiwa robot arm in gym environment for 3 Fetch tasks, 'Reach', 'Push' and 'Slide', by Pybullet.
   - Trained RL model based on posiiton control and joint angle control.
 - *2023.02 - 2023.05*, CV Segmentation and AI Classification of Picture of Chip Index, NUS
@@ -101,7 +99,7 @@ My research interest includes medical device (surgical robots) and medical imagi
   - Utilized Moldex3D to design and simulate polymer flow in the designated component mould.
  
 # 💻 Internships
-- *2022.11 - 2023.11*, CD Capital, Department of Medical Device Investment, Investment Analyst Intern
+- *2022.11 - 2023.11*, CD Capital (Shanghai), Department of Medical Device Investment, Investment Analyst Intern
   - Involved in investment analysis on medical devices, mainly ophthalmology surgical robots, endourology surgical robots, and minimally invasive neuromodulation devices.
 - *2021.07 - 2022.08*, Xi'an Jiaotong University, School of Mechanical Engineering, Research Assistant
   - Involved in the 'Preparation and Performance Test of Carbon-nanotube Terahertz Detectors' project.
