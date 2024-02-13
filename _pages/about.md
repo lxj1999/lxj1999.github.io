@@ -24,7 +24,7 @@ My research interest includes medical device (surgical robots) and medical imagi
 # 📖 Educations
 - *2023.01 - 2024.01*, M.Sc., Robotics, National University of Singapore (NUS), Singapore
 - *2017.08 - 2021.07*, B.Eng., Mechanical Engineering, Xi'an Jiaotong University (XJTU), China
-- *2019.01 - 2019.05*, Visiting International Student Program, University of Wisconsin-Madison (UW-Madison), United States
+- *2019.01 - 2019.05*, Visiting International Student Program (VISP), University of Wisconsin-Madison (UW-Madison), United States
 
 # 📚 Standardized Scores
 - GPA: NUS: 4.75/5.0; XJTU: 86.94/100 (WES: 3.72/4.0); UW-Madison: 3.7/4.0.
@@ -32,7 +32,8 @@ My research interest includes medical device (surgical robots) and medical imagi
 - GRE: Overal: 319+3.0 (V:149, Q:170), expired on 28/Aug/2025.
 
 # 🛠 Skills
-- Engineering Software: Abaqus; Ansys APDL; COMSOL; SolidWorks; AutoCAD
+- FEA Software: Abaqus; Ansys APDL
+- Engineering Drawing Software: SolidWorks; AutoCAD(2D)
 - Computer Languages: MATLAB; Python
 
 # 📝 Research Experiences
@@ -48,6 +49,7 @@ My research interest includes medical device (surgical robots) and medical imagi
   - Produced four faulty bearings with different lengths of wear on the inner race and four faulty solenoid valves with different levels of wear on the outer surface of the spool.
   - Measured the vibration data on a hydraulic test rig with faulty bearings and faulty solenoid valves respectively using piezoelectric vibration sensors, and collated into two corresponding datasets.
   - Utilized ResNet50 to perform fault diagnosis and life prediction on bearings and solenoid valves.
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Excellent Undergraduate Graduation Project</div><img src='images/500x300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,11 +63,13 @@ My research interest includes medical device (surgical robots) and medical imagi
 
 
 # 📑 Course Projects
-- *2023.08 - 2023.12*, Ongoing, Robot Grasp of Randomly-placed Blanket on Object, NUS
+- *2023.08 - 2023.12*, Robot Grasp of Randomly-placed Blanket on Object, NUS
   - Collected RGB images and corresponding depth information of randomly-placed color-labelled blankets via a RGBD camera into a dataset.
   - Trained semantic segmentation models for randomly-placed color-labelled blankets to recognize their corners and edges using UNet and DeepLabV3+. 
   - Controlled the Franka Emika robot arm to grasp the blanket at specified edge with a specified angle based on semantic segmentation results and point cloud reconstruction. 
-- *2023.08 - 2023.12*, Ongoing, Reinforcement Learning on Dynamic Restaurant Scheduling Problem with Flexible Serving Time, NUS
+- *2023.08 - 2023.12*, Reinforecement Learning on Self-written 'Fetch'-like Gym Enviroment, NUS
+  - Utilized Kuka-iiwa robot arm in gym environment for 3 Fetch tasks, 'Reach', 'Push' and 'Slide', by Pybullet.
+  - Trained RL model based on posiiton control and joint angle control.
 - *2023.02 - 2023.05*, CV Segmentation and AI Classification of Picture of Chip Index, NUS
   - Utilized Matlab to segment letters and numbers in the picture with self-written functions (worked as regionprops, bwlabel and so on).
   - Utilized Matlab to recognize and classify letters and numbers in the picture with simple CNN.
@@ -106,7 +110,7 @@ My research interest includes medical device (surgical robots) and medical imagi
   - Involved in the CAD drawing, acid resistance test, fatigue test, and tightness test for the anesthetic machine.
 
 # 🎖 Honors and Awards
-- *2021.11* Second Prize in the Excellent General Course Paper and Teaching Outcome, Xi’an Jiaotong University
-- *2021.07* Excellent Undergraduate Graduation Project (Top 1%), Xi'an Jiaotong University
-- *2020.05* School-level Second Scholarship, Xi’an Jiaotong University
-- *2019.05* Second Scholarship, SMC Educational Foundation
+- *2021.11* Second Prize in the Excellent General Course Paper and Teaching Outcome, Xi’an Jiaotong University, China
+- *2021.07* Excellent Undergraduate Graduation Project (Top 1%), Xi'an Jiaotong University, China
+- *2020.05* School-level Second Scholarship, Xi’an Jiaotong University, China
+- *2019.05* Second Scholarship, Beijing SMC Educational Foundation, China
