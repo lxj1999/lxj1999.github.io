@@ -107,7 +107,7 @@ My research interest includes medical device (surgical robots) and medical imagi
   - Involved in the CAD drawing, acid resistance test, fatigue test, and tightness test for the anesthetic machine.
 
 # 🎖 Honors and Awards
-- *2021.11 * Second Prize in the Excellent General Course Paper and Teaching Outcome, Xi’an Jiaotong University, China
-- *2021.07 * Excellent Undergraduate Graduation Project (Top 1%), Xi'an Jiaotong University, China
-- *2020.05 * School-level Second Scholarship, Xi’an Jiaotong University, China
-- *2019.05 * Second Scholarship, Beijing SMC Educational Foundation, China
+- *2021.11*, Second Prize in the Excellent General Course Paper and Teaching Outcome, Xi’an Jiaotong University, China
+- *2021.07*, Excellent Undergraduate Graduation Project (Top 1%), Xi'an Jiaotong University, China
+- *2020.05*, School-level Second Scholarship, Xi’an Jiaotong University, China
+- *2019.05*, Second Scholarship, Beijing SMC Educational Foundation, China
