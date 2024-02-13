@@ -62,7 +62,7 @@ My research interest includes medical device (surgical robots) and medical imagi
 # 📑 Course Projects
 - *2023.08 - 2023.12*, Robot Grasp of Randomly-placed Blanket on Object, NUS
   - Collected RGB images and corresponding depth information of randomly-placed color-labelled blankets via a RGBD camera into a dataset.
-  - Trained semantic segmentation models for randomly-placed color-labelled blankets to recognize their corners and edges using UNet and DeepLabV3+. 
+  - Trained semantic segmentation models for randomly-placed color-labelled blankets to recognize their corners and edges using UNet. 
   - Controlled the Franka Emika robot arm to grasp the blanket at specified edge with a specified angle based on semantic segmentation results and point cloud reconstruction. 
 - *2023.08 - 2023.12*, Reinforecement Learning on Self-written 'Fetch'-like Gym Environment, NUS
   - Utilized Kuka-iiwa robot arm in gym environment for 3 Fetch tasks, 'Reach', 'Push' and 'Slide', by Pybullet.
