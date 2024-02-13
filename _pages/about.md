@@ -60,11 +60,13 @@ My research interest includes medical device (surgical robots) and medical imagi
 
 
 # 📑 Course Projects
-- *2023.08 - 2023.12*, Ongoing, Robot Grasp of Randomly-placed Blanket on Object, NUS
+- *2023.08 - 2023.12*, Robot Grasp of Randomly-placed Blanket on Object, NUS
   - Collected RGB images and corresponding depth information of randomly-placed color-labelled blankets via a RGBD camera into a dataset.
   - Trained semantic segmentation models for randomly-placed color-labelled blankets to recognize their corners and edges using UNet and DeepLabV3+. 
   - Controlled the Franka Emika robot arm to grasp the blanket at specified edge with a specified angle based on semantic segmentation results and point cloud reconstruction. 
-- *2023.08 - 2023.12*, Ongoing, Reinforcement Learning on Dynamic Restaurant Scheduling Problem with Flexible Serving Time, NUS
+- *2023.08 - 2023.12*, Reinforecement Learning on Self-written 'Fetch'-like Gym Environment, NUS
+  - Utilized Kuka-iiwa robot arm in gym environment for 3 Fetch tasks, 'Reach', 'Push' and 'Slide', by Pybullet.
+  - Trained RL model based on end-effector position control and joint-angle control.
 - *2023.02 - 2023.05*, CV Segmentation and AI Classification of Picture of Chip Index, NUS
   - Utilized Matlab to segment letters and numbers in the picture with self-written functions (worked as regionprops, bwlabel and so on).
   - Utilized Matlab to recognize and classify letters and numbers in the picture with simple CNN.
@@ -96,7 +98,7 @@ My research interest includes medical device (surgical robots) and medical imagi
   - Utilized Moldex3D to design and simulate polymer flow in the designated component mould.
  
 # 💻 Internships
-- *2022.11 - 2023.11*, CD Capital, Department of Medical Device Investment, Investment Analyst Intern
+- *2022.11 - 2023.11*, CD Capital (Shanghai), Department of Medical Device Investment, Investment Analyst Intern
   - Involved in investment analysis on medical devices, mainly ophthalmology surgical robots, endourology surgical robots, and minimally invasive neuromodulation devices.
 - *2021.07 - 2022.08*, Xi'an Jiaotong University, School of Mechanical Engineering, Research Assistant
   - Involved in the 'Preparation and Performance Test of Carbon-nanotube Terahertz Detectors' project.
@@ -105,7 +107,7 @@ My research interest includes medical device (surgical robots) and medical imagi
   - Involved in the CAD drawing, acid resistance test, fatigue test, and tightness test for the anesthetic machine.
 
 # 🎖 Honors and Awards
-- *2021.11* Second Prize in the Excellent General Course Paper and Teaching Outcome, Xi’an Jiaotong University
-- *2021.07* Excellent Undergraduate Graduation Project (Top 1%), Xi'an Jiaotong University
-- *2020.05* School-level Second Scholarship, Xi’an Jiaotong University
-- *2019.05* Second Scholarship, SMC Educational Foundation
+- *2021.11 * Second Prize in the Excellent General Course Paper and Teaching Outcome, Xi’an Jiaotong University, China
+- *2021.07 * Excellent Undergraduate Graduation Project (Top 1%), Xi'an Jiaotong University, China
+- *2020.05 * School-level Second Scholarship, Xi’an Jiaotong University, China
+- *2019.05 * Second Scholarship, Beijing SMC Educational Foundation, China
