@@ -65,12 +65,16 @@ My research interest includes medical device (surgical robots) and medical imagi
   - Trained semantic segmentation models for randomly-placed color-labelled blankets to recognize their corners and edges using UNet. 
   - Controlled the Franka Emika robot arm to grasp the blanket at specified edge with a specified angle based on semantic segmentation results and point cloud reconstruction. 
 - *2023.08 - 2023.12*, Reinforecement Learning on Self-written 'Fetch'-like Gym Environment, NUS
-  - Utilized Kuka-iiwa robot arm in gym environment for 3 Fetch tasks, 'Reach', 'Push' and 'Slide', by Pybullet.
+  - Utilized Kuka-iiwa robot arm in Gym environment for 3 Fetch tasks, 'Reach', 'Push', and 'Slide', by Pybullet.
   - Trained RL model based on end-effector position control and joint-angle control.
-- *2023.02 - 2023.05*, CV Segmentation and AI Classification of Picture of Chip Index, NUS
+- *2023.08 - 2023.12*, Design of a Digital Controller and an Analog Controller for a Dynamic System, NUS
+  - Analyzed the dynamics of the system and checked the controllability and observability of the system in discrete and continuous time.
+  - Designed digital controller using compensator and PID control.
+  - Designed analog controller using state feedback control(pole placement and LQR), observer-based control, decoupling control and servo control.
+- *2023.01 - 2023.05*, CV Segmentation and AI Classification of Picture of Chip Index, NUS
   - Utilized Matlab to segment letters and numbers in the picture with self-written functions (worked as regionprops, bwlabel and so on).
   - Utilized Matlab to recognize and classify letters and numbers in the picture with simple CNN.
-- *2023.03 - 2023.04*, Comparison of Solvers in Solving SDP (Semi-definite Program) Problems, NUS
+- *2023.01 - 2023.04*, Comparison of Solvers in Solving SDP (Semi-definite Program) Problems, NUS
   - Utilized SDPT3 solver and SeDuMi solver on CVX interface in Matlab to solve the pure primal form of SDP.
 - *2020.02 - 2020.12*, Swarm Intelligence Algorithms in Solving Flexible Job Shop Scheduling Problem (FJSP), XJTU
   - Designed an FJSP data generation method with eight workpieces, six machines, and six jobs. 
